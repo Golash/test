@@ -1,1 +1,1 @@
-[README](../master/README.md)
+[README](README.md)
